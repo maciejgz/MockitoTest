@@ -1,4 +1,4 @@
-package pl.mg;
+package pl.mg.mockito;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;

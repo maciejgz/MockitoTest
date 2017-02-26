@@ -48,6 +48,13 @@
 			<scope>provided</scope>
 		</dependency>
 
+		<!-- auto reload of the classes - stupid JRebel but still fast -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
+			<optional>true</optional>
+		</dependency>
+
 	</dependencies>
 
 	<build>
